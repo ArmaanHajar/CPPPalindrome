@@ -9,7 +9,7 @@ int main() {
   char str3[80];
 
   cout << "Enter a Word or Phrase to see if it's a Palindrome! (Max 80 Characters)" << endl;
-  
+
   cin.get(str, 80);
   cin.get();
 
@@ -41,7 +41,9 @@ int main() {
   else {
     cout << "Not a Palindrome" << endl;
   }
-  
+
   return 0;
 }
 // hello jeff, you are the best
+
+
